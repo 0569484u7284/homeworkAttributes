@@ -1,0 +1,7 @@
+C:\Users\Сова\source\repos\CS_Custom_IoC_DI\Custom_IoC_DI\bin\x64\Debug\Custom_IoC_DI.exe.config
+C:\Users\Сова\source\repos\CS_Custom_IoC_DI\Custom_IoC_DI\bin\x64\Debug\Custom_IoC_DI.exe
+C:\Users\Сова\source\repos\CS_Custom_IoC_DI\Custom_IoC_DI\bin\x64\Debug\Custom_IoC_DI.pdb
+C:\Users\Сова\source\repos\CS_Custom_IoC_DI\Custom_IoC_DI\obj\x64\Debug\Custom_IoC_DI.csprojAssemblyReference.cache
+C:\Users\Сова\source\repos\CS_Custom_IoC_DI\Custom_IoC_DI\obj\x64\Debug\Custom_IoC_DI.csproj.CoreCompileInputs.cache
+C:\Users\Сова\source\repos\CS_Custom_IoC_DI\Custom_IoC_DI\obj\x64\Debug\Custom_IoC_DI.exe
+C:\Users\Сова\source\repos\CS_Custom_IoC_DI\Custom_IoC_DI\obj\x64\Debug\Custom_IoC_DI.pdb
